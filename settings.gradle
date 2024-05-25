@@ -1,2 +1,2 @@
 rootProject.name = "test-spring-cloud-infra"
-include("discovery-service", "client-app")
+include("discovery-service", "client-app", "api-gateway")
